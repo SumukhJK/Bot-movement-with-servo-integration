@@ -1,7 +1,7 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL355n_8lRJ"
-#define BLYNK_TEMPLATE_NAME "smartcar"
-#define BLYNK_AUTH_TOKEN "5jU30urC-rjeCdOV1-fbeGnWqiup5717"
+#define BLYNK_TEMPLATE_ID "********"
+#define BLYNK_TEMPLATE_NAME "*******"
+#define BLYNK_AUTH_TOKEN "***********"
 
 
 #define BLYNK_PRINT Serial
@@ -30,8 +30,8 @@ int Speed;
 
 
 char auth[] = BLYNK_AUTH_TOKEN; 
-char ssid[] = "Galaxy M21E1FB";
-char pass[] = "ctcd1215"; 
+char ssid[] = "*********";
+char pass[] = "********"; 
 
 
 void setup() {
